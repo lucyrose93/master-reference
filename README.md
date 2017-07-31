@@ -6,6 +6,10 @@ A master reference for the running of [Founders &amp; Coders](http://www.founder
 
 **All pull requests welcome**. Checkout our [contribution guidelines](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md).
 
+## The Library
+
+There is a shared [Google sheet](https://docs.google.com/spreadsheets/d/1cF2UHFBRt-6FMrsu6XJrGZYVRBxb6QR82ezKsz3YGPc/edit#gid=0) containing all resources related to the curriculum and beyond! Feel free to browse, contribute resources and see what physical books are available to borrow right now.
+
 ## Curriculum
 
 A curriculum can be thought of as the ordered collection of weeks that students will follow at a given campus. Likewise a week can be thought of as an ordered collection of parts (i.e. a workshop, morning challenge, set of research topics or project).
